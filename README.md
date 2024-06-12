@@ -1,2 +1,2 @@
 # disccussions
-Firechain discussion linked repo
+Fire Station discussion linked repo
